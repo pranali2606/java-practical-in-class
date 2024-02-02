@@ -1,9 +1,5 @@
 public class array {
 	
-	public static void myname(){
-		System.out.println("hello world");
-	}
-	
 	public static int task1(int [] args){
 		return args[0];
 	}
@@ -23,8 +19,8 @@ public class array {
 		}
 		return sum;
 	}
+	
 	public static void main(String[] args){
-		myname();
 		int a1[] = {1,2,3,4,5};     
 		System.out.println(task1(a1));
 		System.out.println(task2(a1));
