@@ -1,4 +1,4 @@
-public class first {
+public class array {
 	
 	public static void myname(){
 		System.out.println("hello world");
